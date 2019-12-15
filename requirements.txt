@@ -1,0 +1,8 @@
+schedule
+requests
+pandas_datareader
+yfinance
+numpy
+pandas
+yfinance
+scipy
